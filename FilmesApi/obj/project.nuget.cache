@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/VBqIdRTWicoXv7TI/hQdpQrubFVe9ulqTonQUnfzBd1GwB+chYXHu5gVBzOLgy+TNGLJmNgcRuHW4+3iFa5/Q==",
+  "dgSpecHash": "uPN7NAEBtNJrd1TsBsuVg2S8usuL82cG93NtB0pcXBQWvgvAxMFZeKzsq5qjo39u0lO48vUsJXsQZrm7v3ZeUQ==",
   "success": true,
   "projectFilePath": "/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/FilmesApi.csproj",
   "expectedPackageFiles": [
+    "/Users/diogo/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/diogo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/diogo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/diogo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/diogo/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/Users/diogo/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
     "/Users/diogo/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
