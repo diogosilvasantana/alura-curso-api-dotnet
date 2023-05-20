@@ -62,35 +62,57 @@
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/obj/Debug/net6.0/FilmesApi.pdb
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/obj/Debug/net6.0/FilmesApi.genruntimeconfig.cache
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/obj/Debug/net6.0/ref/FilmesApi.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\appsettings.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesApi.props
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesApi.props
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesApi.props
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
-C:\Users\Proart Studios\Desktop\cursos\alura\C#\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/appsettings.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/FilmesApi.exe
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/FilmesApi.deps.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/FilmesApi.runtimeconfig.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/FilmesApi.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/FilmesApi.pdb
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.csproj.AssemblyReference.cache
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.AssemblyInfoInputs.cache
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.AssemblyInfo.cs
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.csproj.CoreCompileInputs.cache
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets/msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets/msbuild.build.FilmesApi.props
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FilmesApi.props
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FilmesApi.props
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/scopedcss/bundle/FilmesApi.styles.css
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.csproj.CopyComplete
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/refint/FilmesApi.dll
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.pdb
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/FilmesApi.genruntimeconfig.cache
+C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/ref/FilmesApi.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Humanizer.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/MySqlConnector.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/System.CodeDom.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/System.Text.Json.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
