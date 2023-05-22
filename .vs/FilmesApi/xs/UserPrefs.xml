@@ -1,7 +1,15 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{086175AA-2900-46A6-81AD-775C4C624684}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FilmesApi/Models/Filme.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FilmesApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilmesApi/Profiles/FilmeProfile.cs">
     <Files>
-      <File FileName="FilmesApi/Models/Filme.cs" Line="8" Column="19" />
+      <File FileName="FilmesApi/Program.cs" Line="12" Column="1" IsPinned="True" />
+      <File FileName="FilmesApi/Controllers/FilmeController.cs" Line="83" Column="1" />
+      <File FileName="FilmesApi/Data/Dtos/UpdateFilmeDto.cs" />
+      <File FileName="FilmesApi/Profiles/FilmeProfile.cs" Line="14" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,22 +17,19 @@
           <Node name="FilmesApi" expanded="True">
             <Node name="FilmesApi" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Filme.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Dtos" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True">
+                <Node name="FilmeProfile.cs" selected="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.FilmesApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

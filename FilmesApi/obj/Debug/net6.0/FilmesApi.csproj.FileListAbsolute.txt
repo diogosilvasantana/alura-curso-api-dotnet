@@ -118,3 +118,9 @@ C:/Users/Proart Studios/Desktop/cursos/alura/C#/FilmesApi/obj/Debug/net6.0/ref/F
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/AutoMapper.dll
 /Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/bin/Debug/net6.0/FilmesApi.xml
+/Users/diogo/Desktop/Projects_C#/alura-curso-api-dotnet/FilmesApi/obj/Debug/net6.0/FilmesApi.xml
